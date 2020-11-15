@@ -1,0 +1,5 @@
+classes=4
+train=/home/zzw/darknet/myData_train.txt
+valid=/home/zzw/darknet/myData_train.txt
+names=own/struct/yolov3.names
+backup=backup

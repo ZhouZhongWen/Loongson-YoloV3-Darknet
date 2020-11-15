@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>input</folder>
+	<filename>450.jpg</filename>
+	<path>C:\Users\GHR\Desktop\嵌入式\input\450.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sand</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>964</xmin>
+			<ymin>1000</ymin>
+			<xmax>1031</xmax>
+			<ymax>1080</ymax>
+		</bndbox>
+	</object>
+</annotation>

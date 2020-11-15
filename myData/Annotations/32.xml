@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>input</folder>
+	<filename>129.jpg</filename>
+	<path>C:\Users\GHR\Desktop\嵌入式\input\129.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bag </name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1403</xmin>
+			<ymin>490</ymin>
+			<xmax>1518</xmax>
+			<ymax>537</ymax>
+		</bndbox>
+	</object>
+</annotation>

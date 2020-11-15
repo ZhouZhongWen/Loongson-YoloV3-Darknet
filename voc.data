@@ -1,0 +1,5 @@
+classes=4
+train=train.txt
+valid=train.txt
+names=yolov3.names
+backup=backup
